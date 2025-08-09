@@ -31,3 +31,20 @@ es un número único que el sistema operativo asigna a cada proceso cuando se in
 Barra e búsqueda de procesos en tiempo Real
 Podemos buscar cada proceso mediante su nombre y poder ver la cantidad de memoria asi mismo ver los procesos que ya no están en ejecución en ese momento.
  <img width="589" height="140" alt="Imagen7" src="https://github.com/user-attachments/assets/c31c0f17-c024-4797-9bd7-ba45b6c9d22a" />
+
+
+herberth josue chocoj colon
+<img width="836" height="741" alt="image" src="https://github.com/user-attachments/assets/900a170f-8bbc-4e1a-93e4-24d717d09e76" />
+
+
+Erick Etsson Perez Garcia 
+![Imagen de WhatsApp 2025-08-08 a las 23 24 34_b5557d92](https://github.com/user-attachments/assets/0b0d4149-1798-4aaa-a99a-8a32ae92dd3c)
+
+Medelyn Odalis Cajbón Quexel
+![Imagen de WhatsApp 2025-08-08 a las 23 25 36_3a525a00](https://github.com/user-attachments/assets/09a3af85-a210-4b9d-bfbe-9c4ded6798c4)
+
+Hugo Daniel Pérez Yos
+![Imagen de WhatsApp 2025-08-08 a las 23 26 23_7ae491ed](https://github.com/user-attachments/assets/7949944e-ed01-4b12-b6be-4576d720430d)
+
+Eswin Omar Matzul Ajcucun
+
